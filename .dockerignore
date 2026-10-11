@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+build
+coverage
+.git
+.gitignore
+.vercel
+.env*
+npm-debug.log*
+*.tsbuildinfo
+Dockerfile
+.dockerignore
+docker-compose.yml
+README.md
+PROJECT_REQUIREMENTS.md
+Lean Software Requirements Specific.txt
